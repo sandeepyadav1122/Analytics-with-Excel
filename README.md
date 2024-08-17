@@ -1,4 +1,4 @@
-# Coffee Shop Analytics
+# Coffee Shop Analytics ☕
 
 ## Overview
 The **Coffee Shop Analytics** project is designed to analyze sales data from a coffee shop, focusing on understanding customer behavior, product performance, and sales trends. The project utilizes transaction records organized into detailed data sheets and summarized with pivot tables, making it a powerful tool for deriving insights and driving business decisions.
@@ -15,7 +15,7 @@ The project consists of the following sheets:
 3. **Dashboard (Visualization):**  
    A reserved sheet for creating visual dashboards. This can be used to build charts, graphs, and other visual tools that present insights derived from the data.
 
-## How to Use
+## How to Use 🤔
 
 1. **Data Exploration:**  
    Begin by exploring **Sheet1** to gain detailed insights into individual transactions.
@@ -38,5 +38,5 @@ The project consists of the following sheets:
 This project is a comprehensive tool for analyzing coffee shop sales data, providing both raw and summarized data for in-depth analysis and visualization. It's designed to support data-driven decision-making by revealing patterns and trends that can improve business strategies.
 
 ## Screen Preview
-![Dashboard Preview](path_to_image/dashboard_preview.png)
+![Dashboard Preview](https://github.com/sandeepyadav1122/Analytics-with-Excel/blob/main/Excel.jpg)
 
