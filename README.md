@@ -1,5 +1,5 @@
-# Coffee Shop Analytics ☕
-
+# Coffee Shop sales Analytics 
+![preview](https://media.tenor.com/KLPWga_KqjcAAAAi/coffee.gif)
 ## Overview
 The **Coffee Shop Analytics** project is designed to analyze sales data from a coffee shop, focusing on understanding customer behavior, product performance, and sales trends. The project utilizes transaction records organized into detailed data sheets and summarized with pivot tables, making it a powerful tool for deriving insights and driving business decisions.
 
